@@ -1,4 +1,6 @@
 # Ex04 Places Around Me
+## Date: 20.11.2023
+
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -180,11 +182,10 @@ The Thiruneermalai temple complex consists of two temples, the Ranganatha Temple
 
 
 ## OUTPUT
-![Alt text](map.png)
-![Alt text](university.png)
-!![Alt text](pallavaram.png)[Alt text](temple.png)
-![Alt text](chromepet.png)
-![Alt text](airport.png)
+
+
+
+
 
 
 

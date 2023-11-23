@@ -59,7 +59,7 @@ airport.html
 <head>
 <title> Airport </title>
 </head>
-<body bgcolor="ICE BLUE">
+<body bgcolor="Green">
 <h1 align="center">
 <font color="night teal"><b>My Home Town</b></font>
 </h1>
@@ -83,7 +83,7 @@ chromepet.html
 <head>
 <title> near area </title>
 </head>
-<body bgcolor="ice blue">
+<body bgcolor="pink">
 <h1 align="center">
 <font color="night shade"><b>My Home Town</b></font>
 </h1>
@@ -107,7 +107,7 @@ college.html
 <head>
 <title> college </title>
 </head>
-<body bgcolor="ice blue">
+<body bgcolor="light blue">
 <h1 align="center">
 <font color="Night shade"><b>My Home Town</b></font>
 </h1>
@@ -133,7 +133,7 @@ home.html
 <head>
 <title> Pallavaram </title>
 </head>
-<body bgcolor="ICE BLUE">
+<body bgcolor="SaffronE">
 <h1 align="center">
 <font color="night shade"><b>My Home Town </b></font>
 </h1>
@@ -182,12 +182,7 @@ The Thiruneermalai temple complex consists of two temples, the Ranganatha Temple
 
 
 ## OUTPUT
-![Alt text](airport.png)
-![Alt text](chromepet.png)
-![Alt text](map.png)
-![Alt text](pallavaram.png)
-![Alt text](temple.png)
-![Alt text](university.png)
+
 
 
 

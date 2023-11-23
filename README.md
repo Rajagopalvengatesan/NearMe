@@ -180,18 +180,12 @@ The Thiruneermalai temple complex consists of two temples, the Ranganatha Temple
 
 
 ## OUTPUT
-![Alt text](map.png)
-![Alt text](university.png)
-!![Alt text](pallavaram.png)
-[Alt text](temple.png)
-![Alt text](chromepet.png)
-![Alt text](airport.png)
+![Alt text](<Screenshot (34).png>)
 ![Alt text](temple.png)
-
-
-
-
-
+![Alt text](<Screenshot (35).png>)
+![Alt text](<Screenshot (36).png>)
+![Alt text](<Screenshot (38).png>)
+![Alt text](<Screenshot (37).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

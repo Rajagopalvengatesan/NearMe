@@ -182,10 +182,11 @@ The Thiruneermalai temple complex consists of two temples, the Ranganatha Temple
 ## OUTPUT
 ![Alt text](map.png)
 ![Alt text](university.png)
-!![Alt text](pallavaram.png)[Alt text](temple.png)
+!![Alt text](pallavaram.png)
+[Alt text](temple.png)
 ![Alt text](chromepet.png)
 ![Alt text](airport.png)
-
+![Alt text](temple.png)
 
 
 
